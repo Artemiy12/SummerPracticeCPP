@@ -29,6 +29,7 @@ public:
     void setSenderLogin(const QString senderLogin);
     void setReceiverLogin(const QString receiverLogin);
     void getThistextTomail();
+    void getShit();
 };
 
 #endif // MESSAGE_H
